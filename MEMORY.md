@@ -35,3 +35,5 @@
 - [맴매각 효과 규칙](maemmaegak-fx-pairing.md) — 반응 글씨마다 소리 짝, 아픔·신남 음성 허용(대사·욕 금지), 경적 크기별+빠아아앙 물결 글씨, 동그라미 물체 추적, 나레 블박 시점, 바뀌면 테스트 영상 먼저 (2026-10-01)
 - [마지막 목격자 채널](lastwitness-channel-workflow.md) — 미스스한 이야기 형식(이름·대본·화면은 우리 것), ~/lastwitness_work, Flow fa99de85, Jaejun(2편부터 사용자 mp3), 첫인사 "마지막 목격자. 오늘은 ~에 대한 이야기입니다", 1편 데이긴 사건 (2026-10-02)
 - [폭싹 제목 해시태그](poksak-title-hashtags.md) — ps 편 제목 끝에 #폭싹속았수다 #넷플 #넷플릭스 #명장면 #명대사 (2026-10-03)
+- [기억 백업 저장소](memory-backup-repo.md) — github.com/tmzkxl007/memory (비공개), 2026-10-03 첫 백업, 올리기 전 비공개 확인
+- [마지막 목격자 새 편 표준](lastwitness-standard-recipe.md) — 2편 에드 게인 방식 그대로(사용자 mp3·그노시엔느 끝까지·기록물 필터·MISSING/이름/인용 카드·폴리스라인 쇼츠), 템플릿 ep02_gein (2026-10-03)
