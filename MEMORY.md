@@ -1,0 +1,37 @@
+- [한국어로만 답하기](reply-in-korean.md) — 사용자는 영어를 못 읽음, 모든 답·알림·질문을 한국어로 (2026-09-29)
+- [진행 상황 묻지 않기](proceed-without-asking.md) — 중간 확인 없이 끝까지 진행하고 결과로 보고
+- [깃허브 푸시 금지](no-github-push.md) — 사용자가 올려달라 하기 전엔 git push 하지 않음 (2026-09-29)
+- [3D 프리셋 = nm2240/3D-preset 저장소](volcano-3d-preset-workflow.md) — 볼케이노 MCP가 아니라 로컬 ffmpeg 파이프라인
+- [3D 소재 찾기](3d-source-finding.md) — 땡초상영관·숏땡초 역추적 → Zack D. Films 원본 93편 목록, 대조표 artifact (2026-09-10) · 숏땡초 205 조사 → 남은 124 (09-28)
+- [완성본 출력 위치](output-folder-documents.md) — 내 문서(OneDrive 리디렉션)의 두둥픽 폴더
+- [프리셋 방화벽](preset-firewall.md) — 3D와 크랩 분리, 훅 차단 + 납품 전 preset_guard 검증
+- [gunrimbo-community-preset 워크플로](gunrimbo-community-preset-workflow.md) — 볼케이노 군림보 렌더 + 둥근 카드 오버레이, 서버 슬롯 972 고정·오버레이 실측치
+- [rounded-noejeongu-preset 워크플로](rounded-noejeongu-preset-workflow.md) — "noejeongu-preset" = ~/rounded-noejeongu-preset 수동 파이프라인, ElevenLabs 키 위치, 리얼미터·KTV 이미지 소싱
+- [3D 프리셋 기본 설정](preset-3d-defaults.md) — 배속 1.3 고정 + TTS 공백 전부 제거
+- [forey-preset 워크플로](forey-preset-workflow.md) — 포레이로 = ~/forey-preset(git) + ~/volcano_work 작업 폴더, 세로 쇼츠 소재 처리
+- [VmakeSkill](vmake-skill.md) — ~/vmake 설치, 전용 venv, UTF-8 환경변수 필수, 카탈로그 6종(유료)
+- [군림보 대본 취향](gunrimbo-script-style.md) — 댓글 인용도, 댓글 기반 마무리 해설/총평도 금지. 원글 사건으로만 끝낸다
+- [포레이로 나레 말투 확정](forey-narration-style.md) — 알파카 말투: ~죠/~는데 존댓말 과거(~기에 금지), 이름·자신(직함 금지), 마지막만 주인공 입장 반말 촌평, 1.3배, 나레 5~6마디 20~25%·대사 70%+ (2026-09-19)
+- [포레이로 mk 진행 상태](forey-mk-progress.md) — 메이드인코리아2 mk05~mk36 전부 완료 · 스캔들 1화 sc01~sc04(성적 장면 제외, 남은 #5~#10)
+- [rama-preset 워크플로](rama-preset-workflow.md) — 라마 = ~/rama-preset(git) + ~/rama_work, 엘플릭스 템플릿 + 상황 설명 나레(물음표 금지), drama-preset과 절대 섞지 않음 (2026-09-18)
+- [포레이로 스캔들 진행 상태](forey-scandal-progress.md) — 1화 sc01~sc04, 2화 sc05~sc07 납품(09-22), 성적 장면·대화 제외, 남은 2화 포인트 ④~⑧, 플랫폼 확인 전
+- [포레이로 배경음악 제거](forey-bgm-removal.md) — 모든 포레이로 편 기본: devocal.py(demucs 목소리만) + build 도장 검사, 사용자 확정 (2026-09-22)
+- [메트리쿨 터널방식 예약](metricool-tunnel-upload.md) — 로컬 mp4 → http.server + cloudflared URL → createScheduledPost, 브랜드 ID 목록
+- [신병 제목 해시태그](sinbyeong-title-hashtags.md) — 신병 영상 제목 끝에 #신병4 #티빙 #명장면 #명대사 (2026-09-24)
+- [넷플릭스 자막 규격](netflix-subtitle-standard.md) — 전 프리셋 경고 단계 + 자막은 한 줄(2026-09-25), 짧은 자막 합치기·fail 전환 미결
+- [의학의 역사 채널](medhist-channel-workflow.md) — 새 16:9 롱폼 채널, ~/medhist_work, 진우 1.1배·공백 제거·잘난체·넷플릭스 자막·Flow 그림(flowkit)·쇼팽 PD, 프리셋과 별개 (2026-09-28)
+- [의학의 역사 그림체](medhist-art-style.md) — 2·3편 그림체로 통일, style/channel_style.png 를 모든 그림 참고로·연속 장면 ref_prev (2026-09-30)
+- [의학의 역사 썸네일 형식](medhist-thumbnail-style.md) — 1편 A형 '범인은 ○○의 손이었다': 어두운 톤·흰 글자 3줄·핵심어만 빨강 (2026-09-29)
+- [라마 20화 진행 상태](rama-ep20-progress.md) — 09-26 11편 완료(sb43 제외), sb46 노래 남은 채 납품 → 사용자 확인 대기
+- [agy 설치](agy-install-attempt.md) — 09-28 설치·로그인 성공, --model gemini-3.8-flash-high 고정, TubeLens AIza 키 삭제 미결
+- [저승콩 천사콩 프리셋](jeoseungkong-preset-workflow.md) — ~/jeoseungkong-cheonsakong, agy 이미지 전용, ElevenLabs 효과음 권한 없음, 9편 완성(Flow 그림), agy 한도 막히면 IMG_BACKEND=flow (2026-09-28)
+- [EvoLink 잔액 조회](evolink-balance.md) — GET /v1/credits 의 data.user.remaining_credits, 09-28 1.23크레딧
+- [맴매각 새 편 방식](maemmaegak-style-ep04b.md) — ep04b 트럭 편에서 사용자가 다듬은 나레이션·효과음·화면 방식 그대로 (2026-09-29 확정)
+- [맴매각 프리셋](maemmaegak-preset-workflow.md) — ~/maemmaegak 참사이다식 루프 쇼츠, 다른 PC 완성본은 GitHub에 없음, 이 PC 첫 편 ep04 (2026-09-29)
+- [가족 사연 쇼츠 채널](family-story-channel-workflow.md) — 시댁 사연 대화극 세로 쇼츠, ~/family_story_work, Flow 전용 프로젝트 558c…, Gowoon/Doyoon/Sooni, 1편 완성 (2026-09-28)
+- [참사이다 차 효과음 분석](chamsaida-sfx-analysis.md) — 같은 효과음 파일을 여러 편에 돌려씀(끼익·경적·쾅·쿠앙·!!!), 참고 소리 다운로드\참사이다_차효과음 (2026-09-29)
+- [한문철은 말할 때만](hanmuncheol-only-when-asked.md) — 한문철 장면·판정 음성은 사용자가 그 편에 넣으라 할 때만, 자동으로 넣지 않음 (2026-10-01)
+- [맴매각 판정 멘트 금지](maemmaegak-no-verdict.md) — 보험사 100%·과실·경찰 판단 같은 판정·결과 나레이션 넣지 않음, 사건·행동만 (2026-10-01)
+- [맴매각 효과 규칙](maemmaegak-fx-pairing.md) — 반응 글씨마다 소리 짝, 아픔·신남 음성 허용(대사·욕 금지), 경적 크기별+빠아아앙 물결 글씨, 동그라미 물체 추적, 나레 블박 시점, 바뀌면 테스트 영상 먼저 (2026-10-01)
+- [마지막 목격자 채널](lastwitness-channel-workflow.md) — 미스스한 이야기 형식(이름·대본·화면은 우리 것), ~/lastwitness_work, Flow fa99de85, Jaejun(2편부터 사용자 mp3), 첫인사 "마지막 목격자. 오늘은 ~에 대한 이야기입니다", 1편 데이긴 사건 (2026-10-02)
+- [폭싹 제목 해시태그](poksak-title-hashtags.md) — ps 편 제목 끝에 #폭싹속았수다 #넷플 #넷플릭스 #명장면 #명대사 (2026-10-03)
