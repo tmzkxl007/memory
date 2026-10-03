@@ -13,3 +13,4 @@ metadata:
 두 번째 백업(2026-10-03, 커밋 a12366e): 새 편 표준·폴리스라인·이 메모 추가. pull 은 자격 증명 창 때문에 멈춘 적이 있어 쓰지 않고, push 는 `GIT_TERMINAL_PROMPT=0 timeout 90 git push origin main` 으로.
 
 세 번째 백업(2026-10-03, 커밋 54f52cc): 저장소가 공개(API 200)로 바뀌어 있어 멈추고 알렸더니 사용자가 "그냥 올려 괜찮아". 앞으로 이 저장소는 공개여도 사용자가 허락한 상태 — 다만 백업할 때 공개 여부는 한 줄로 알려 준다.
+네 번째(2026-10-03, 커밋 be5eccb): 사용자 "다른 컴퓨터에서 깃허브 주소만 보내면 이 프리셋으로?" → 같은 저장소에 `lastwitness-preset/` 폴더(스크립트·검은고딕/고딕A1 OFL 폰트·그노시엔느1 PD·click.wav·template=4편 스크립트·examples=1~3편 plan·SETUP.md) 추가, 9.1MB. 잘난체는 재배포 조건 때문에 빼고 받는 법만 적음. 키(speechmatics)·flowkit(crisng95/flowkit)+크롬 확장 로그인은 새 PC 에서 직접. 프리셋을 고치면 이 폴더도 같이 갱신해서 올릴 것.
