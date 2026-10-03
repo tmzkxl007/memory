@@ -37,3 +37,4 @@
 - [폭싹 제목 해시태그](poksak-title-hashtags.md) — ps 편 제목 끝에 #폭싹속았수다 #넷플 #넷플릭스 #명장면 #명대사 (2026-10-03)
 - [기억 백업 저장소](memory-backup-repo.md) — github.com/tmzkxl007/memory (비공개), 2026-10-03 첫 백업, 올리기 전 비공개 확인
 - [마지막 목격자 새 편 표준](lastwitness-standard-recipe.md) — 2편 에드 게인 방식 그대로(사용자 mp3·그노시엔느 끝까지·기록물 필터·MISSING/이름/인용 카드·폴리스라인 쇼츠), 템플릿 ep02_gein (2026-10-03)
+- [라마 폭싹 진행 상태](rama-poksak-progress.md) — 폭싹 속았수다 = 라마, 1화 ps01~ps12 납품(10-03), 사투리 자막 확인 대기, 로고 170 높이
